@@ -1,0 +1,7 @@
+TOKEN = '5342092277:AAGZPN-j6B9LQvl_XVn6qbe6UM7HoovTvm8'
+USER = 'oracle'
+PASSWORD = 'oracle'
+HOST = 'localhost'
+PORT = '1521'
+ADMIN_ID = ''
+DB = 'ourDB.db'
